@@ -161,8 +161,7 @@ print(f"""
     </div>
   </body>
 </html>
-      
-      
+         
       
 """)
 
