@@ -13,7 +13,7 @@ def total_mouses(x):
     total1 += x['quantidade']
     return total1
 
-    
+
 total = map(total_mouses,status)
 soma = 0
 for c in total:
